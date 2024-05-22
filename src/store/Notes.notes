@@ -1,0 +1,1 @@
+This Store folder will be handling our global states. We learnt how to use zustand in the authStore.js file.
